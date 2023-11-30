@@ -2,19 +2,19 @@
 - 👀 I’m looking for a role in IT feald.
 - 🌱 I’h the following skills
 
-	Programming Languages	:	Java.
+	Programming Languages	:	Java.
 
-	Web Skills			      :	HTML, CSS, Java Script.
+	Web Skills			      :	HTML, CSS, Java Script.
 
-	DATA BASE Languages	  :	SQL.
+	DATA BASE Languages	  :	SQL.
 
-	Data Base 			      :	MY SQL.
+	Data Base 			      :	MY SQL.
 
-	Backend Frameworks		:	Spring Boot, Hibernate.
+	Backend Frameworks		:	Spring Boot, Hibernate.
 
-	Development Tools		  :	STS, MySQL WorkBench, Postman, VS Code, Git. 
+	Development Tools		  :	STS, MySQL WorkBench, Postman, VS Code, Git. 
 
-	Operating System	  	:	Windows 11.
+	Operating System	  	:	Windows 11.
 
 	Office Tools			    : MS-Excel, MS-Power point and MS-Word.
  
