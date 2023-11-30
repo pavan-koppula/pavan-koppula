@@ -16,7 +16,7 @@
 
 	Operating System	  	:	Windows 11.
 
-	Office Tools			    : MS-Excel, MS-Power point and MS-Word.
+	Office Tools			    : MS-Excel, MS-Power point and MS-Word.
  
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me pavankumarkoppula2002@gmail.com
