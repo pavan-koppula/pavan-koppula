@@ -1,13 +1,20 @@
 - 👋 Hi, I’m @pavan-koppula
 - 👀 I’m looking for a role in IT feald.
 - 🌱 I’h the following skills
-	Programming Languages	:	Java. 
+	Programming Languages	:	Java.
+
 	Web Skills			      :	HTML, CSS, Java Script.
+
 	DATA BASE Languages	  :	SQL.
+
 	Data Base 			      :	MY SQL.
+
 	Backend Frameworks		:	Spring Boot, Hibernate.
+
 	Development Tools		  :	STS, MySQL WorkBench, Postman, VS Code, Git. 
+
 	Operating System	  	:	Windows 11.
+
 	Office Tools			    : MS-Excel, MS-Power point and MS-Word.
  
 - 💞️ I’m looking to collaborate.
